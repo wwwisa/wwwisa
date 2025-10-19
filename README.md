@@ -1,30 +1,35 @@
-<h3 align="left">Hello World! I'm Isa!</h3>
+ <h1 align="left">Hello World! I'm Isa!</h1>
 
 ###
 
-<p align="left">Sou uma estudante de T.I não apenas apaixonada por tecnologia mas por arte também :)<br> Estou decidida em unir os dois mundos através do desenvolvimento web.</p>
-
-###
-<img align="right" height="80" src="https://i.pinimg.com/originals/ac/f4/49/acf449faa1a934a4720d9faae6f337cc.gif"  />
+<p align="left">Sou uma iniciante no mundo do T.I explorando o universo da programação</p>
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="31" alt="html5 logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="31" alt="css logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="31" alt="javascript logo"  />
+<br clear="both">
+
+<div align="right">
+  <img height="100" src="https://i.pinimg.com/originals/b9/52/ae/b952ae169bb8ace0f361fe0081f6329b.gif"  />
 </div>
 
 ###
 
+<h3 align="left">Atualmente estudando:</h3>
+
+###
+
+<p align="left">Informática para Negócios - FATEC<br>CS50's Introduction to Computer Science</p>
+
+###
+
 <div align="left">
-  <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?logo=adobeillustrator&logoColor=black&style=for-the-badge" height="23" alt="adobeillustrator logo"  />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?logo=adobephotoshop&logoColor=black&style=for-the-badge" height="23" alt="adobephotoshop logo"  />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=black&style=for-the-badge" height="23" alt="blender logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
 </div>
 
 ###
